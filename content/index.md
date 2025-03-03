@@ -3,7 +3,7 @@ title: "Welcome to Yvanna's 11ty Site"
 layout: "base.njk"
 ---
 
-# Hello, CSE 134B Tutors!
+# Hello, CSE 134B TAs!
 
 This is a static site built with 11ty.
 
